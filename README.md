@@ -56,3 +56,8 @@ Places to ask questions and find other community resources.
 - [bund.dev](https://bund.dev/): a list of public administration APIs, collected by civic tech community
   - [GitHub organization](https://github.com/bundesAPI)
   - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
+
+## FOSS projects
+- [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
+- [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
+- [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
