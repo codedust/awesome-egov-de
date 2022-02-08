@@ -30,6 +30,11 @@ Places to ask questions and find other community resources.
 - [Servicestandard für die OZG-Umsetzung](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/servicestandard/servicestandard-node.html): standard quality priciples for online services by BMI
 - [Föderale IT-Architekturrichtlinien](https://www.fitko.de/foederale-koordination/gremienarbeit/foederales-it-architekturboard): IT architecture policies by the federal IT architecture board of IT-Planungsrat
 
+### Existing Solutions
+
+- [FIT-Store](https://www.fitko.de/produktmanagement/fit-store): Ready to use solutions for governments (including a section on open-source solutions)
+- [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
+
 ### Progress tracking
 - [OZG-Dashboard](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/ozg-dashboard/ozg-dashboard-node.html) by BMI
 - [OZG-Dashboard NRW](https://www.giscloud.nrw.de/ozg-dashboard.html) by MWIDE NRW
