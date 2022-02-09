@@ -22,6 +22,10 @@ Places to ask questions and find other community resources.
 - [Zerforschung](https://zerforschung.org/): hacker collective focussing (i.a.) on the security of government infrastrucutre
   - [Twitter](https://twitter.com/zerforschung/)
 
+## Standardization Working Groups
+- [EU Working Group "APIs for Innovative Public Services (API4IPS)"](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=254313406)
+  - [REST best practices](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=335282435) by that working group
+
 ## Resources
 ### Policies
 - [Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen (Onlinezugangsgesetz)](https://www.gesetze-im-internet.de/ozg/)
@@ -30,16 +34,16 @@ Places to ask questions and find other community resources.
 - [Servicestandard für die OZG-Umsetzung](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/servicestandard/servicestandard-node.html): standard quality priciples for online services by BMI
 - [Föderale IT-Architekturrichtlinien](https://www.fitko.de/foederale-koordination/gremienarbeit/foederales-it-architekturboard): IT architecture policies by the federal IT architecture board of IT-Planungsrat
 
-### Existing Solutions
-
-- [FIT-Store](https://www.fitko.de/produktmanagement/fit-store): Ready to use solutions for governments (including a section on open-source solutions)
-- [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
-
 ### Progress tracking
 - [OZG-Dashboard](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/ozg-dashboard/ozg-dashboard-node.html) by BMI
 - [OZG-Dashboard NRW](https://www.giscloud.nrw.de/ozg-dashboard.html) by MWIDE NRW
+- [OZG-Monitoring](https://ozg.zfinder.de/) by Linie6Plus (BB, HE, MV, NI, RP, SH, ST, TH)
 - [OZG-Dashboard](https://ozg.verdrusssache.de/) by Lilith Wittmann
 - [OZG-Informationsplattform](https://informationsplattform.ozg-umsetzung.de/)
+
+### Existing, reusable solutions
+- [FIT-Store](https://www.fitko.de/produktmanagement/fit-store): Ready to use solutions for governments (including a section on open-source solutions)
+- [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
 
 ### Technical Documentation
 - [Standards und Schnittstellen](https://docs.fitko.de/standards-und-schnittstellen/): overview over standards and APIs created by the Portalverbund project
@@ -48,6 +52,7 @@ Places to ask questions and find other community resources.
 - [FIT-Connect](https://docs.fitko.de/fit-connect/): developer resources on public service application submission APIs (project FIT-Connect)
 - [Föderales Informationsmanagement (FIM)](https://ozg.nrw/das-ozg/foederales-informationsmanagement-fim) by MWIDE NRW
 - [FIM-Haus](https://fimportal.de/fim-haus) at FIM-Portal
+- [OZG in NRW - Dokumente](https://ozg.nrw/service/dokumente): Documentation and usage guides about federal IT-Infrastructure by MWIDE NRW
 
 ### UI/UX
 - [Design-System.SH](https://www.design-system.sh/): design system developed in Schleswig-Holstein, inspired by [GOV.UK Design System](https://design-system.service.gov.uk/)
@@ -61,6 +66,11 @@ Places to ask questions and find other community resources.
 - [bund.dev](https://bund.dev/): a list of public administration APIs, collected by civic tech community
   - [GitHub organization](https://github.com/bundesAPI)
   - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
+- [Verwaltungssuchmaschine NRW](https://ozg.kdn.de/verwaltungssuchmaschine): search for ARS/AGS, LeiKa-Services and Responsibilities (Zuständigkeiten)
+  - [Serviceportal NRW](https://meineverwaltung.nrw/): frontend for end users
+
+### Tooling for developers
+- [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
 
 ## FOSS projects
 - [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
