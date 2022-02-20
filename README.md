@@ -73,6 +73,10 @@ Places to ask questions and find other community resources.
 - [Verwaltungssuchmaschine NRW](https://ozg.kdn.de/verwaltungssuchmaschine): search for ARS/AGS, LeiKa-Services and Responsibilities (Zuständigkeiten)
   - [Serviceportal NRW](https://meineverwaltung.nrw/): frontend for end users
 
+### Services
+- [OpenPGP Schlüsselbeglaubigung](https://pgp.governikus.de/pgp/): PGP key signing service based on identity card (*neuer Personalausweis*, nPA) verification
+- [Portalverbung Onlinegateway (PVOG)](https://servicesuche.bund.de/): search for public services throughout all federal levels
+
 ### Tooling for developers
 - [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
 
@@ -82,3 +86,5 @@ Places to ask questions and find other community resources.
 - [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
 - [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
 - [IRIS connect](https://www.iris-connect.de/): open api for health offices with focus on contract tracing
+- [AusweisApp2](https://www.ausweisapp.bund.de/ausweisapp2/): app for the german identity card (*neuer Personalausweis*, nPA)
+  - [GitHub](https://github.com/Governikus/AusweisApp2)
