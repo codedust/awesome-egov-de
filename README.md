@@ -80,4 +80,5 @@ Places to ask questions and find other community resources.
 - [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
 - [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
 - [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
+- [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
 - [IRIS connect](https://www.iris-connect.de/): open api for health offices with focus on contract tracing
