@@ -21,6 +21,10 @@ Places to ask questions and find other community resources.
   - [Twitter](https://twitter.com/codeforde/)
 - [Zerforschung](https://zerforschung.org/): hacker collective focussing (i.a.) on the security of government infrastrucutre
   - [Twitter](https://twitter.com/zerforschung/)
+- [Innovationsverbund Öffentliche Gesundheit (InÖG)](https://www.inoeg.de/): public healthcare tech network that builds open source tools for health offices
+  - [GitHub](https://github.com/InOG-projects)
+  - [Twitter](https://twitter.com/inoeg_de)
+  - [Patreon](https://www.patreon.com/inoeg)
 
 ## Standardization Working Groups
 - [EU Working Group "APIs for Innovative Public Services (API4IPS)"](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=254313406)
@@ -76,3 +80,4 @@ Places to ask questions and find other community resources.
 - [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
 - [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
 - [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
+- [IRIS connect](https://www.iris-connect.de/): open api for health offices with focus on contract tracing
