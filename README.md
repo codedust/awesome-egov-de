@@ -4,6 +4,7 @@ A curated list of resources on egovernment in Germany.
 
 ## Related awesome lists
 - [awesome-opendata-german](https://github.com/codeforosnabrueck/awesome-opendata-german): articles and other resources about Open Data (by [Code-for-Germany](https://codefor.de/))
+  - [opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns): list of open data anti-patterns that should be avoided
 - [awesome-behoerden-floss](https://github.com/okfde/awesome-behoerden-floss): F/LOSS software that is used in German government organizations (by [Open Knowledge Foundation Deutschland](https://okfn.de/))
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit): list of transit (public transport) APIs, apps, datasets, research, and software
 
