@@ -41,6 +41,7 @@ Places to ask questions and find other community resources.
 ### Literature
 - [Better for Less: How to make Government IT deliver savings](https://ntouk.files.wordpress.com/2015/06/better-for-less-1.pdf) (2010) by Liam Maxwell and others: An absolute classic and must-read for decision makers in government organizations. The paper explains what has gone wrong in British egovernment and describes what strategic change is required. Considered to be the conceptual foundation of the [UK Government Digital Service](https://www.gov.uk/).
 - [stk's blog](https://stefan.bloggt.es/): Blog by stk about open data, egovernment, and thoughts about the latest tech buzzwords.
+- [Lilith Wittmann's blog](https://lilithwittmann.medium.com/)
 
 ### OZG Progress tracking
 - [OZG-Dashboard](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/ozg-dashboard/ozg-dashboard-node.html) by BMI
