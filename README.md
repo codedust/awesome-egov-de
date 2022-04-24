@@ -68,7 +68,7 @@ Places to ask questions and find other community resources.
 - [Design-System.SH](https://www.design-system.sh/): design system developed in Schleswig-Holstein, inspired by [GOV.UK Design System](https://design-system.service.gov.uk/)
 
 ### Code Repositories
-- [Open Source Code Repository](https://gitlab.o4oe.de/explore) by BMI, NRW and BW
+- [Open Source Code Repository](https://opencode.de) by BMI, NRW and BW
 - [FIT-Connect](https://git.fitko.de/fit-connect) at FITKO-GitLab
 - [GitHub and Government](https://government.github.com/community/): list of (not only) German government organizations using GitHub
 
@@ -86,15 +86,12 @@ Places to ask questions and find other community resources.
 ### Tooling for developers
 - [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
 
-### Existing, reusable solutions
-- [FIT-Store](https://www.fitko.de/produktmanagement/fit-store): Ready to use solutions for governments (including a section on open-source solutions)
-- [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
-
-## FOSS projects
+## Open Source (FOSS) projects
 - [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
 - [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
 - [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
 - [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
 - [IRIS connect](https://www.iris-connect.de/): open api for health offices with focus on contract tracing
+- [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
 - [AusweisApp2](https://www.ausweisapp.bund.de/ausweisapp2/): app for the german identity card (*neuer Personalausweis*, nPA)
   - [GitHub](https://github.com/Governikus/AusweisApp2)
