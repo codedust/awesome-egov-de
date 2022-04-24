@@ -12,7 +12,7 @@ A curated list of resources on egovernment in Germany.
 Places to ask questions and find other community resources.
 
 - [eGov AfterWork meetup](https://egovernment-podcast.com/events/): monthly meetup of the [eGovernment Podcast](https://egovernment-podcast.com/) community
-  - [matrix chat](https://matrix.to/#/#egov-afterwork:matrix.org)
+  - [Matrix chat](https://matrix.to/#/#egov-afterwork:matrix.org)
   - [Twitter](https://twitter.com/eGovPod/)
 - [N3GZ Nachwuchsnetzwerk Digitale Verwaltung](https://n3gz.org/): junior network for people working in public administration, industry and science
   - [eGov-Wiki](https://n3gz.org/egov-wiki/)
@@ -20,6 +20,10 @@ Places to ask questions and find other community resources.
   - [Twitter](https://twitter.com/N3GZ_org/)
 - [Code for Germany](https://codefor.de/): civic tech open government network
   - [Twitter](https://twitter.com/codeforde/)
+- [bund.dev](https://bund.dev/): civic tech community that documents government APIs
+  - [GitHub](https://github.com/bundesAPI)
+  - [Twitter](https://twitter.com/bund_dev/)
+  - [Slack](https://join.slack.com/t/bunddev/shared_invite/zt-zvvyike8-39zn4X_xSw8JL0dqcIaFqA)
 - [Zerforschung](https://zerforschung.org/): hacker collective focussing (i.a.) on the security of government infrastrucutre
   - [Twitter](https://twitter.com/zerforschung/)
 - [Innovationsverbund Öffentliche Gesundheit (InÖG)](https://www.inoeg.de/): public healthcare tech network that builds open source tools for health offices
@@ -69,7 +73,7 @@ Places to ask questions and find other community resources.
 - [GitHub and Government](https://government.github.com/community/): list of (not only) German government organizations using GitHub
 
 ### APIs
-- [bund.dev](https://bund.dev/): a list of public administration APIs, collected by civic tech community
+- [bund.dev](https://bund.dev/): list of public administration APIs, documented by civic tech community
   - [GitHub organization](https://github.com/bundesAPI)
   - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
 - [Verwaltungssuchmaschine NRW](https://ozg.kdn.de/verwaltungssuchmaschine): search for ARS/AGS, LeiKa-Services and Responsibilities (Zuständigkeiten)
