@@ -69,8 +69,9 @@ Places to ask questions and find other community resources.
 - [Design-System.SH](https://www.design-system.sh/): design system developed in Schleswig-Holstein, inspired by [GOV.UK Design System](https://design-system.service.gov.uk/)
 
 ### Code Repositories
-- [Open Source Code Repository](https://opencode.de) by BMI, NRW and BW
-- [FIT-Connect](https://git.fitko.de/fit-connect) at FITKO-GitLab
+- [Open Source Code Repository](https://opencode.de): GitLab instance by BMI, NRW and BW
+- [FIT-Connect](https://git.fitko.de/fit-connect): GitLab instance by Föderale IT-Koorperation (FITKO)
+- [GitLab Land Schleswig-Holstein](https://code.schleswig-holstein.de/explore): GitLab instance by state Schleswig-Holstein
 - [GitHub and Government](https://government.github.com/community/): list of (not only) German government organizations using GitHub
 
 ### APIs
