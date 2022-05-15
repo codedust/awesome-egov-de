@@ -40,9 +40,26 @@ Places to ask questions and find other community resources.
 ### Policies
 - [Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen (Onlinezugangsgesetz)](https://www.gesetze-im-internet.de/ozg/)
 - [Verwaltungsabkommen zur Umsetzung des Onlinezugangsgesetzes](https://www.onlinezugangsgesetz.de/SharedDocs/downloads/Webs/OZG/DE/dachabkommen-vorabversion.pdf?__blob=publicationFile&v=1): administrative agreement on the implemenation of the Onlinezugangsgesetz (OZG)
-- [EfA-Mindestanforderungen](https://www.onlinezugangsgesetz.de/SharedDocs/downloads/Webs/OZG/DE/EfA/efa-mindestanforderungen.pdf?__blob=publicationFile&v=3): minimal requirements for the implementation of online services financed by the business activity support program (Konjunkturpaket)
-- [Servicestandard für die OZG-Umsetzung](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/servicestandard/servicestandard-node.html): standard quality priciples for online services by BMI
+  - Prescribes the use of open standards and open source software (SHOULD)
+- [EfA-Mindestanforderungen](https://www.onlinezugangsgesetz.de/SharedDocs/downloads/Webs/OZG/DE/EfA/efa-mindestanforderungen.pdf?__blob=publicationFile&v=3): minimal technical and legal requirements for the implementation of online services financed by the business activity support program (Konjunkturpaket)
+- [Servicestandard für die OZG-Umsetzung](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/servicestandard/servicestandard-node.html): standard quality priciples for online services, by BMI, including a [self audit](https://servicestandard.ozg-umsetzung.de/index.php/62918?lang=de)
+  - User centricity (assessment of user requirements, simple and intuitive use, accessibility, proximity to citizens and gender neutrality, once-only principle, data protection, promotion of digital use)
+  - Approach (legal change requirements, agile approach, interconnected portals („Portalverbund“))
+  - Collaboration (cross-level cooperation, implementation communities)
+  - Openness (open standards, open source, software re-use)
+  - IT operations (IT security and support, interoperability, technological evaluation)
+  - Controlling (evaluation of user satisfaction, user-centered further development)
 - [Föderale IT-Architekturrichtlinien](https://www.fitko.de/foederale-koordination/gremienarbeit/foederales-it-architekturboard): IT architecture policies by the federal IT architecture board of IT-Planungsrat
+  - Stategic architecture guidelines SR1 and SR3 prescribe the use of open standards (MUST)
+  - Stategic architecture guidelines SR2 and SR10 prescribe reusing existing software components and loose coupling (MUST)
+  - Stategic architecture guideline SR4 prescribes security by default and privacy by default (MUST)
+  - Stategic architecture guideline SR5 prescribes an API-first approach (MUST)
+  - Stategic architecture guideline SR6 prescribes usability by design (MUST)
+  - Stategic architecture guidelines SR7 and SR8 prescribes for open source licensing (dual-/multi-vendor strategie) (MUST)
+  - Stategic architecture guideline SR9 prescribes interoperability between infrastrucutre components (MUST)
+  - Stategic architecture guideline SR11 prescribes green IT (MUST)
+  - Stategic architecture guideline SR12 prescribes the once-only principle (SHOULD)
+  - Stategic architecture guideline SR13 prescribes open data by design (MUST)
 
 ### Literature
 - [Better for Less: How to make Government IT deliver savings](https://ntouk.files.wordpress.com/2015/06/better-for-less-1.pdf) (2010) by Liam Maxwell and others: An absolute classic and must-read for decision makers in government organizations. The paper explains what has gone wrong in British egovernment and describes what strategic change is required. Considered to be the conceptual foundation of the [UK Government Digital Service](https://www.gov.uk/).
