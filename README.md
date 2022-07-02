@@ -102,6 +102,9 @@ Places to ask questions and find other community resources.
 ### Services
 - [OpenPGP Schlüsselbeglaubigung](https://pgp.governikus.de/pgp/): PGP key signing service based on identity card (*neuer Personalausweis*, nPA) verification
 - [Portalverbung Onlinegateway (PVOG)](https://servicesuche.bund.de/): search for public services throughout all federal levels
+- [elektronischer Personalausweis (nPA / eID)](https://www.personalausweisportal.de/)
+  - [blog post by ijonberlin about FIDO support](https://www.ijon.me/2020/04/16/versteckte-funktion-der-eid-fido) for two-factor authentication (2FA)
+  - [WebAuthn-eID for Firefox extension](https://addons.mozilla.org/de/firefox/addon/webauthn-eid-for-firefox/)
 
 ### Tooling for developers
 - [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
