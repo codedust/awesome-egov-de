@@ -25,6 +25,9 @@ Places to ask questions and find other community resources.
   - [GitHub](https://github.com/bundesAPI)
   - [Twitter](https://twitter.com/bund_dev/)
   - [Slack](https://join.slack.com/t/bunddev/shared_invite/zt-zvvyike8-39zn4X_xSw8JL0dqcIaFqA)
+- [Formularium](https://formularium.verdrusssache.de/): a FOSS, privacy-first, and user-friendly toolkit for municipalities to support them in making their public services available online
+  - [GitHub](https://github.com/formularium/formularium)
+  - [Slack](https://join.slack.com/t/formularium/shared_invite/zt-ooxr8hzr-LMYSF93V~sLwqYaQwiEACg)
 - [Zerforschung](https://zerforschung.org/): hacker collective focussing (i.a.) on the security of government infrastrucutre
   - [Twitter](https://twitter.com/zerforschung/)
 - [Innovationsverbund Öffentliche Gesundheit (InÖG)](https://www.inoeg.de/): public healthcare tech network that builds open source tools for health offices
@@ -111,6 +114,7 @@ Places to ask questions and find other community resources.
 
 ## Open Source (FOSS) projects
 - [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
+- [Formularium](https://github.com/formularium/formularium): a privacy-first and user-friendly toolkit for municipalities to support them in making their public services available online
 - [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
 - [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
 - [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
