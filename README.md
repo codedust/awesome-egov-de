@@ -10,16 +10,14 @@ A curated list of resources on egovernment in Germany.
 - [awesome-deutschland](https://github.com/JonasGroeger/awesome-deutschland/): similar list but not restricted to government IT
 
 ## governmental and federal ambitions
-- Deutsche Cloud Strategie
-    https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/Deutsche-Verwaltungscloud-Strategie/deutsche_verwaltungscloud_strategie_node.html 3
-- Zentrum für digitale Souveränität
+- Deutsche Cloud Strategie / cloud strategy germany
+    https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/Deutsche-Verwaltungscloud-Strategie/deutsche_verwaltungscloud_strategie_node.html
+- Zentrum für digitale Souveränität / digital souveraignity centre
     https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/ZenDiS/zendis_node.html
-- Souveräner Arbeitsplatz
+- Souveräner Arbeitsplatz / souveraign workplace
     https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/Souveraener-Arbeitsplatz/souveraener_arbeitsplatz_node.html
-- opencode Plattform des Bundes insbesondere das Wiki
-    OSS Allgemein | Software
-    Projekt Phoenix der Dataport
-    https://www.dphoenixsuite.de/ 3
+- Projekt Phoenix der Dataport / Dataports Phoenix project
+    https://www.dphoenixsuite.de/
 
 
 ## Community
@@ -83,7 +81,7 @@ Places to ask questions and find other community resources.
 - [stk's blog](https://stefan.bloggt.es/): Blog by stk about open data, egovernment, and thoughts about the latest tech buzzwords.
 - [Lilith Wittmann's blog](https://lilithwittmann.medium.com/)
 
-### best practices OSS in der öffentlichen Verwaltung
+### best practices OSS in der öffentlichen Verwaltung / in public administration
 - [Entwicklung einer Open Source Strategie beim Bundesamt für Strahlenschutz](https://media.ccc.de/v/fossgis2022-14146-die-open-source-strategie-des-bundesamtes-fr-strahlenschutz-bfs-bei-der-entwicklung-der-notfallschutzsysteme-ein-weg-fr-behrden-zu-mehr-digitaler-souvernitt-und-nachhaltigkeit)
 - [Linux Arbeitsplatz Schleswig-Holstein (Studie)](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/linux-plus1/Downloads/_dateien/linux-studie.html)
 - Impulsvortrag für OSS auf kommunaler Ebene: pull request your government
