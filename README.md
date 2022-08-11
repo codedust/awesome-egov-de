@@ -122,3 +122,5 @@ Places to ask questions and find other community resources.
 - [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
 - [AusweisApp2](https://www.ausweisapp.bund.de/ausweisapp2/): app for the german identity card (*neuer Personalausweis*, nPA)
   - [GitHub](https://github.com/Governikus/AusweisApp2)
+- [tldrlegal](https://tldrlegal.com/): tool to compare several OSS licences
+- [bflow](http://bflow.org/): business process modelling, OSS based
