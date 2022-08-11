@@ -9,17 +9,6 @@ A curated list of resources on egovernment in Germany.
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit): list of transit (public transport) APIs, apps, datasets, research, and software
 - [awesome-deutschland](https://github.com/JonasGroeger/awesome-deutschland/): similar list but not restricted to government IT
 
-## governmental and federal ambitions
-- Deutsche Cloud Strategie / cloud strategy germany
-    https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/Deutsche-Verwaltungscloud-Strategie/deutsche_verwaltungscloud_strategie_node.html
-- Zentrum für digitale Souveränität / digital souveraignity centre
-    https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/ZenDiS/zendis_node.html
-- Souveräner Arbeitsplatz / souveraign workplace
-    https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/Souveraener-Arbeitsplatz/souveraener_arbeitsplatz_node.html
-- Projekt Phoenix der Dataport / Dataports Phoenix project
-    https://www.dphoenixsuite.de/
-
-
 ## Community
 Places to ask questions and find other community resources.
 
@@ -50,6 +39,18 @@ Places to ask questions and find other community resources.
 - [EU Working Group "APIs for Innovative Public Services (API4IPS)"](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=254313406)
   - [REST best practices](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=335282435) by that working group
   - https://www.youtube.com/watch?v=vu8EQwJcaC4
+
+## governmental and federal ambitions to establish more OSS
+Projects, working groups and policy papers concerning OSS in public administration.
+### germany  
+- Deutsche Cloud Strategie / cloud strategy germany
+  https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/Deutsche-Verwaltungscloud-Strategie/deutsche_verwaltungscloud_strategie_node.html
+- Zentrum für digitale Souveränität / digital sovereignity centre
+  https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/ZenDiS/zendis_node.html
+- Souveräner Arbeitsplatz / sovereign workplace
+  https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/Souveraener-Arbeitsplatz/souveraener_arbeitsplatz_node.html
+- Webbasierter Arbeitsplatz des Projekt Phoenix der Dataport / Phoenix project, a webbased workplace by Dataport
+  https://www.dphoenixsuite.de/
 
 ## Resources
 ### Policies
@@ -141,5 +142,5 @@ Places to ask questions and find other community resources.
 - [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
 - [AusweisApp2](https://www.ausweisapp.bund.de/ausweisapp2/): app for the german identity card (*neuer Personalausweis*, nPA)
   - [GitHub](https://github.com/Governikus/AusweisApp2)
-- [tldrlegal](https://tldrlegal.com/): tool to compare several OSS licences
-- [bflow](http://bflow.org/): business process modelling, OSS based
+- [tldrlegal](https://tldrlegal.com/): compare several OSS licences
+- [bflow](http://bflow.org/): OSS based business process modelling
