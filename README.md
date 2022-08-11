@@ -38,7 +38,7 @@ Places to ask questions and find other community resources.
 ## Standardization Working Groups
 - [EU Working Group "APIs for Innovative Public Services (API4IPS)"](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=254313406)
   - [REST best practices](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=335282435) by that working group
-  - https://www.youtube.com/watch?v=vu8EQwJcaC4
+  - [eGov-Campus – Ringvorlesung: IT-Architekturen und Standards des öffentlichen Sektors - YouTube](https://www.youtube.com/watch?v=vu8EQwJcaC4)
 
 ## governmental and federal ambitions to establish more OSS
 Projects, working groups and policy papers concerning OSS in public administration.
