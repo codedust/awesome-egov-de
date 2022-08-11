@@ -72,7 +72,9 @@ Places to ask questions and find other community resources.
 ### best practices OSS in der öffentlichen Verwaltung
 - [Entwicklung einer Open Source Strategie beim Bundesamt für Strahlenschutz](https://media.ccc.de/v/fossgis2022-14146-die-open-source-strategie-des-bundesamtes-fr-strahlenschutz-bfs-bei-der-entwicklung-der-notfallschutzsysteme-ein-weg-fr-behrden-zu-mehr-digitaler-souvernitt-und-nachhaltigkeit)
 - [Linux Arbeitsplatz Schleswig-Holstein (Studie)](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/linux-plus1/Downloads/_dateien/linux-studie.html)
-- [Impulsvortrag für OSS auf kommunaler Ebene: pull request your government](https://pretalx.com/foss-backstage-2022/talk/RWUAZT/)
+- Impulsvortrag für OSS auf kommunaler Ebene: pull request your government 
+  - [slides](https://pretalx.com/foss-backstage-2022/talk/RWUAZT/)
+  - [video](https://invidio.xamh.de/watch?v=VQx4k4yw9Cg)
 
 ### OZG Progress tracking
 - [OZG-Dashboard](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/ozg-dashboard/ozg-dashboard-node.html) by BMI
