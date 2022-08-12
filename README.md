@@ -114,6 +114,7 @@ Projects, working groups and policy papers concerning OSS in public administrati
 - [GitLab Land Schleswig-Holstein](https://code.schleswig-holstein.de/explore): GitLab instance by state Schleswig-Holstein
 - [Stadt Treuchtlingen at Codeberg.org](https://codeberg.org/stadt_treuchtlingen)
 - [GitHub and Government](https://government.github.com/community/): list of (not only) German government organizations using GitHub
+- [Code Repository of the french government](https://code.gouv.fr)
 
 ### APIs
 - [bund.dev](https://bund.dev/): list of public administration APIs, documented by civic tech community
