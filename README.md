@@ -63,6 +63,10 @@ Places to ask questions and find other community resources.
   - Stategic architecture guideline SR11 prescribes green IT (MUST)
   - Stategic architecture guideline SR12 prescribes the once-only principle (SHOULD)
   - Stategic architecture guideline SR13 prescribes open data by design (MUST)
+- [Eckpunkte Umsetzung des OZG mit Mitteln des Konjunkturpakets](https://www.it-planungsrat.de/fileadmin/beschluesse/2020/Beschluss2020-39_Eckpunkte_Umsetzung_des_OZG.pdf)
+  - Mandatory by [IT-PLR decision 2020/39](https://www.it-planungsrat.de/beschluss/beschluss-2020-39)
+  - mandatory use of open standards
+  - source code of custom software development must be released as open-source-software, if possible. Existing licensing models remain unaffected by this.  
 
 ### Literature
 - [Better for Less: How to make Government IT deliver savings](https://ntouk.files.wordpress.com/2015/06/better-for-less-1.pdf) (2010) by Liam Maxwell and others: An absolute classic and must-read for decision makers in government organizations. The paper explains what has gone wrong in British egovernment and describes what strategic change is required. Considered to be the conceptual foundation of the [UK Government Digital Service](https://www.gov.uk/).
