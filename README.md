@@ -131,7 +131,7 @@ Projects, working groups and policy papers concerning OSS in public administrati
 
 ## Tooling for developers
 - [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
-- [tldrlegal](https://tldrlegal.com/): compare several OSS licences
+- [Joinup Licensing Assistant](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses): tool by European Commission to compare software licenses and check license compatibility
 
 ## Open Source (FOSS) projects
 - [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
