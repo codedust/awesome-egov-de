@@ -39,6 +39,20 @@ Places to ask questions and find other community resources.
 - [EU Working Group "APIs for Innovative Public Services (API4IPS)"](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=254313406)
   - [REST best practices](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=335282435) by that working group
 
+## Governmental and federal ambitions to establish more OSS
+Projects, working groups and policy papers concerning OSS in public administration.
+
+### Germany
+- Deutsche Cloud Strategie / cloud strategy germany
+  https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/Deutsche-Verwaltungscloud-Strategie/deutsche_verwaltungscloud_strategie_node.html
+- Zentrum für digitale Souveränität / digital sovereignity centre
+  https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/ZenDiS/zendis_node.html
+- Souveräner Arbeitsplatz / sovereign workplace
+  https://www.cio.bund.de/Web/DE/Innovative-Vorhaben/Souveraener-Arbeitsplatz/souveraener_arbeitsplatz_node.html
+  - [Linux Arbeitsplatz Schleswig-Holstein (Studie)](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/linux-plus1/Downloads/_dateien/linux-studie.html)
+- Webbasierter Arbeitsplatz des Projekt Phoenix der Dataport / Phoenix project, a webbased workplace by Dataport
+  https://www.dphoenixsuite.de/
+
 ## Resources
 ### Policies
 - [Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen (Onlinezugangsgesetz)](https://www.gesetze-im-internet.de/ozg/)
@@ -73,14 +87,19 @@ Places to ask questions and find other community resources.
 - [stk's blog](https://stefan.bloggt.es/): Blog by stk about open data, egovernment, and thoughts about the latest tech buzzwords.
 - [Lilith Wittmann's blog](https://lilithwittmann.medium.com/)
 
-### OZG Progress tracking
+### Videos
+- [eGov-Campus – Ringvorlesung: IT-Architekturen und Standards des öffentlichen Sektors - YouTube](https://www.youtube.com/watch?v=vu8EQwJcaC4)
+- [Entwicklung einer Open Source Strategie beim Bundesamt für Strahlenschutz](https://media.ccc.de/v/fossgis2022-14146-die-open-source-strategie-des-bundesamtes-fr-strahlenschutz-bfs-bei-der-entwicklung-der-notfallschutzsysteme-ein-weg-fr-behrden-zu-mehr-digitaler-souvernitt-und-nachhaltigkeit)
+- [Pull Request your government](https://invidio.xamh.de/watch?v=VQx4k4yw9Cg): Stategies to increase the acceptance and use of open source technology in public sector contexts ([slides](https://pretalx.com/foss-backstage-2022/talk/RWUAZT/))
+
+## OZG Progress tracking
 - [OZG-Dashboard](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/ozg-dashboard/ozg-dashboard-node.html) by BMI
 - [OZG-Dashboard NRW](https://www.giscloud.nrw.de/ozg-dashboard.html) by MWIDE NRW
 - [OZG-Monitoring](https://ozg.zfinder.de/) by Linie6Plus (BB, HE, MV, NI, RP, SH, ST, TH)
 - [OZG-Dashboard](https://ozg.verdrusssache.de/) by Lilith Wittmann
 - [OZG-Informationsplattform](https://informationsplattform.ozg-umsetzung.de/)
 
-### Technical Documentation
+## Technical Documentation
 - [Standards und Schnittstellen](https://docs.fitko.de/standards-und-schnittstellen/): overview over standards and APIs created by the Portalverbund project
 - [Dokumentation der föderalen IT-Landschaft](https://www.fitko.de/foederale-koordination/gremienarbeit/foederales-it-architekturboard): documentation of it architecture with focus of OZG infrastructure by the federal IT architecture board of IT-Planungsrat
   - [archimate sources](https://git.fitko.de/foederale-it/it-landschaft)
@@ -89,32 +108,34 @@ Places to ask questions and find other community resources.
 - [FIM-Haus](https://fimportal.de/fim-haus) at FIM-Portal
 - [OZG in NRW - Dokumente](https://ozg.nrw/service/dokumente): Documentation and usage guides about federal IT-Infrastructure by MWIDE NRW
 
-### UI/UX
+## UI/UX
 - [Design-System.SH](https://www.design-system.sh/): design system developed in Schleswig-Holstein, inspired by [GOV.UK Design System](https://design-system.service.gov.uk/)
 
-### Code Repositories
+## Code Repositories
 - [Open Source Code Repository](https://opencode.de): GitLab instance by BMI, NRW and BW
 - [FIT-Connect](https://git.fitko.de/fit-connect): GitLab instance by Föderale IT-Koorperation (FITKO)
 - [GitLab Land Schleswig-Holstein](https://code.schleswig-holstein.de/explore): GitLab instance by state Schleswig-Holstein
 - [Stadt Treuchtlingen at Codeberg.org](https://codeberg.org/stadt_treuchtlingen)
 - [GitHub and Government](https://government.github.com/community/): list of (not only) German government organizations using GitHub
+- [Code Repository of the french government](https://code.gouv.fr)
 
-### APIs
+## APIs
 - [bund.dev](https://bund.dev/): list of public administration APIs, documented by civic tech community
   - [GitHub organization](https://github.com/bundesAPI)
   - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
 - [Verwaltungssuchmaschine NRW](https://ozg.kdn.de/verwaltungssuchmaschine): search for ARS/AGS, LeiKa-Services and Responsibilities (Zuständigkeiten)
   - [Serviceportal NRW](https://meineverwaltung.nrw/): frontend for end users
 
-### Services
+## Services
 - [OpenPGP Schlüsselbeglaubigung](https://pgp.governikus.de/pgp/): PGP key signing service based on identity card (*neuer Personalausweis*, nPA) verification
 - [Portalverbung Onlinegateway (PVOG)](https://servicesuche.bund.de/): search for public services throughout all federal levels
 - [elektronischer Personalausweis (nPA / eID)](https://www.personalausweisportal.de/)
   - [blog post by ijonberlin about FIDO support](https://www.ijon.me/2020/04/16/versteckte-funktion-der-eid-fido) for two-factor authentication (2FA)
   - [WebAuthn-eID for Firefox extension](https://addons.mozilla.org/de/firefox/addon/webauthn-eid-for-firefox/)
 
-### Tooling for developers
+## Tooling for developers
 - [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
+- [Joinup Licensing Assistant](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses): tool by European Commission to compare software licenses and check license compatibility
 
 ## Open Source (FOSS) projects
 - [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
@@ -126,3 +147,4 @@ Places to ask questions and find other community resources.
 - [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
 - [AusweisApp2](https://www.ausweisapp.bund.de/ausweisapp2/): app for the german identity card (*neuer Personalausweis*, nPA)
   - [GitHub](https://github.com/Governikus/AusweisApp2)
+- [bflow](http://bflow.org/): OSS based business process modelling
