@@ -73,6 +73,12 @@ Places to ask questions and find other community resources.
 - [stk's blog](https://stefan.bloggt.es/): Blog by stk about open data, egovernment, and thoughts about the latest tech buzzwords.
 - [Lilith Wittmann's blog](https://lilithwittmann.medium.com/)
 
+### Podcasts
+- [eGovernment Podcast](https://egovernment-podcast.com/): podcast about german eGovernment topics
+- eGovernment special by [Lage der Nation](https://lagedernation.org/)
+  - [LdN301: „Keine weiteren Fragen“ – Digitalisierung der deutschen Verwaltung, Teil 1](https://lagedernation.org/podcast/ldn301-keine-weiteren-fragen-digitalisierung-der-deutschen-verwaltung-teil-1/)
+  - [LdN302: Baustellen & Lösungen – Digitalisierung der deutschen Verwaltung, Teil 2](https://lagedernation.org/podcast/ldn302-baustellen-loesungen-digitalisierung-der-deutschen-verwaltung-teil-2/)
+
 ### OZG Progress tracking
 - [OZG-Dashboard](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/ozg-dashboard/ozg-dashboard-node.html) by BMI
 - [OZG-Dashboard NRW](https://www.giscloud.nrw.de/ozg-dashboard.html) by MWIDE NRW
