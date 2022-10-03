@@ -8,6 +8,7 @@ A curated list of resources on egovernment in Germany.
 - [awesome-behoerden-floss](https://github.com/okfde/awesome-behoerden-floss): F/LOSS software that is used in German government organizations (by [Open Knowledge Foundation Deutschland](https://okfn.de/))
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit): list of transit (public transport) APIs, apps, datasets, research, and software
 - [awesome-deutschland](https://github.com/JonasGroeger/awesome-deutschland/): similar list but not restricted to government IT
+- [foss-verwaltung](https://codeberg.org/opengovtech/foss-verwaltung): ressources on reuse and of free and open source software by governments (german)
 
 ## Community
 Places to ask questions and find other community resources.
