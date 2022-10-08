@@ -75,6 +75,7 @@ Places to ask questions and find other community resources.
 ### Blogs
 - [stk's blog](https://stefan.bloggt.es/): Blog by stk about open data, egovernment, and thoughts about the latest tech buzzwords.
 - [Lilith Wittmann's blog](https://lilithwittmann.medium.com/)
+- [Blog by zerforschung](https://zerforschung.org/): hacker collective focussing on the security of public infrastrucutre
 
 ### Podcasts
 - [eGovernment Podcast](https://egovernment-podcast.com/): podcast about german eGovernment topics
