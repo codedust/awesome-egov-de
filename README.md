@@ -46,7 +46,7 @@ Places to ask questions and find other community resources.
 - [Verwaltungsabkommen zur Umsetzung des Onlinezugangsgesetzes](https://www.onlinezugangsgesetz.de/SharedDocs/downloads/Webs/OZG/DE/dachabkommen-vorabversion.pdf?__blob=publicationFile&v=1): administrative agreement on the implemenation of the Onlinezugangsgesetz (OZG)
   - Prescribes the use of open standards and open source software (SHOULD)
 - [EfA-Mindestanforderungen](https://www.onlinezugangsgesetz.de/SharedDocs/downloads/Webs/OZG/DE/EfA/efa-mindestanforderungen.pdf?__blob=publicationFile&v=3): minimal technical and legal requirements for the implementation of online services financed by the business activity support program (Konjunkturpaket)
-- [Servicestandard für die OZG-Umsetzung](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/servicestandard/servicestandard-node.html): standard quality priciples for online services, by BMI, including a [self audit](https://servicestandard.ozg-umsetzung.de/index.php/62918?lang=de)
+- [Servicestandard für die OZG-Umsetzung](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/grundlagen/servicestandard/servicestandard-node.html): standard quality priciples for online services, by BMI, including a [self audit](https://servicestandard.ozg-umsetzung.de/index.php/62918?lang=de)
   - User centricity (assessment of user requirements, simple and intuitive use, accessibility, proximity to citizens and gender neutrality, once-only principle, data protection, promotion of digital use)
   - Approach (legal change requirements, agile approach, interconnected portals („Portalverbund“))
   - Collaboration (cross-level cooperation, implementation communities)
