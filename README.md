@@ -127,6 +127,10 @@ by the institutions of the European Union
 
 ### Tooling for developers
 - [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
+- [publiccode.yml](https://yml.publiccode.tools/): metadata standard for repositories containing software developed or acquired by the Public Administration, aimed at making them easily discoverable and thus reusable by other entities
+  - [docs](https://yml.publiccode.tools/)
+  - [editor](https://publiccode-editor.developers.italia.it/)
+  - [GitHub](https://github.com/publiccodeyml/publiccode.yml)
 
 ## Open Source (FOSS) projects
 - [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
