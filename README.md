@@ -105,9 +105,13 @@ Places to ask questions and find other community resources.
 ### Code Repositories
 - [code.europa.eu](https://code.europa.eu): GitLab instance for open source projects shared
 by the institutions of the European Union
-- [OpenCoDE.de](https://opencode.de): GitLab instance by BMI, NRW and BW
+  - [list of projects](https://code.europa.eu/explore)
+- [OpenCoDE](https://opencode.de): GitLab instance for German government institutions by BMI, NRW and BW
+  - [list of projects](https://gitlab.opencode.de/explore/groups)
 - [git.fitko.de](https://git.fitko.de/fit-connect): GitLab instance by Föderale IT-Koorperation (FITKO)
-- [GitLab Land Schleswig-Holstein](https://code.schleswig-holstein.de/explore): GitLab instance by state Schleswig-Holstein
+  - [group "FIT-Connect"](https://git.fitko.de/fit-connect)
+- [GitLab Land Schleswig-Holstein](https://code.schleswig-holstein.de): GitLab instance by state Schleswig-Holstein
+  - [list of projects](https://code.schleswig-holstein.de/explore)
 - [Stadt Treuchtlingen at Codeberg.org](https://codeberg.org/stadt_treuchtlingen)
 - [GitHub and Government](https://government.github.com/community/): list of (not only) German government organizations using GitHub
 
