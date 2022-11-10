@@ -140,6 +140,7 @@ by the institutions of the European Union
 - [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
 - [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
 - [Din91379-csharp](https://github.com/flxbe/Din91379-csharp): A C# implementation of DIN 91379 (String.Latin)
+- [KoliBri](https://github.com/public-ui): an accessible component library by [ITZBund](https://www.itzbund.de).
 
 ## Open Source (FOSS) projects
 - [Formularium](https://github.com/formularium/formularium): a privacy-first and user-friendly toolkit for municipalities to support them in making their public services available online
