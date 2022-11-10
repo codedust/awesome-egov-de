@@ -128,6 +128,8 @@ by the institutions of the European Union
 - [elektronischer Personalausweis (nPA / eID)](https://www.personalausweisportal.de/)
   - [blog post by ijonberlin about FIDO support](https://www.ijon.me/2020/04/16/versteckte-funktion-der-eid-fido) for two-factor authentication (2FA)
   - [WebAuthn-eID for Firefox extension](https://addons.mozilla.org/de/firefox/addon/webauthn-eid-for-firefox/)
+- [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
+- [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
 
 ### Tooling for developers
 - [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
@@ -135,13 +137,12 @@ by the institutions of the European Union
   - [docs](https://yml.publiccode.tools/)
   - [editor](https://publiccode-editor.developers.italia.it/)
   - [GitHub](https://github.com/publiccodeyml/publiccode.yml)
+- [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
+- [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
+- [Din91379-csharp](https://github.com/flxbe/Din91379-csharp): A C# implementation of DIN 91379 (String.Latin)
 
 ## Open Source (FOSS) projects
-- [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
 - [Formularium](https://github.com/formularium/formularium): a privacy-first and user-friendly toolkit for municipalities to support them in making their public services available online
-- [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
-- [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
-- [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
 - [IRIS connect](https://www.iris-connect.de/): open api for health offices with focus on contract tracing
 - [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
 - [AusweisApp2](https://www.ausweisapp.bund.de/ausweisapp2/): app for the german identity card (*neuer Personalausweis*, nPA)
