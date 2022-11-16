@@ -2,6 +2,8 @@
 
 A curated list of resources on egovernment in Germany.
 
+> Pull requests and feedback via issues welcome! Get in touch via the [matrix](https://matrix.org/) chat at [#awesome-egov-de:tchncs.de](https://matrix.to/#/#awesome-egov-de:tchncs.de)
+
 ## Related awesome lists
 - [awesome-opendata-german](https://github.com/codeforosnabrueck/awesome-opendata-german): articles and other resources about Open Data (by [Code-for-Germany](https://codefor.de/))
   - [opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns): list of open data anti-patterns that should be avoided
