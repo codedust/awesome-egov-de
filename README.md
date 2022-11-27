@@ -74,6 +74,7 @@ Places to ask questions and find other community resources.
 ### Literature
 - [Better for Less: How to make Government IT deliver savings](https://ntouk.files.wordpress.com/2015/06/better-for-less-1.pdf) (2010) by Liam Maxwell and others: An absolute classic and must-read for decision makers in government organizations. The paper explains what has gone wrong in British egovernment and describes what strategic change is required. Considered to be the conceptual foundation of the [UK Government Digital Service](https://www.gov.uk/).
 - [A civic technologist's practice guide](https://cydharrell.com/book/) (2020) by Cyd Harrell: onboarding guide and a survival manual for people interested in civic tech and government it
+- [The Government IT Self-Harm Playbook](https://medium.com/@sheldonline/the-government-it-self-harm-playbook-6537d3920f65) (2016) by Dan Sheldon: A list of things you really should avoid doing (anti-patterns)
 
 ### Blogs
 - [stk's blog](https://stefan.bloggt.es/): Blog by stk about open data, egovernment, and thoughts about the latest tech buzzwords.
