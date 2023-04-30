@@ -13,7 +13,7 @@ A curated list of resources on e-government in Germany.
 - [awesome-deutschland](https://github.com/JonasGroeger/awesome-deutschland/): similar list but not restricted to government IT
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit): list of transit (public transport) APIs, apps, datasets, research, and software
 
-## Community
+## Communities
 Places to ask questions and find other community resources.
 
 - [eGov AfterWork meetup](https://egovernment-podcast.com/events/): monthly meetup of the [eGovernment Podcast](https://egovernment-podcast.com/) community
@@ -43,7 +43,7 @@ Places to ask questions and find other community resources.
 - [EU Working Group "APIs for Innovative Public Services (API4IPS)"](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=254313406)
   - [REST best practices](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=335282435) by that working group
 
-## Resources
+## Learning Resources
 ### Policies
 - [Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen (Onlinezugangsgesetz)](https://www.gesetze-im-internet.de/ozg/)
 - [Verwaltungsabkommen zur Umsetzung des Onlinezugangsgesetzes](https://www.onlinezugangsgesetz.de/SharedDocs/downloads/Webs/OZG/DE/dachabkommen-vorabversion.pdf?__blob=publicationFile&v=1): administrative agreement on the implemenation of the Onlinezugangsgesetz (OZG)
@@ -94,6 +94,14 @@ Places to ask questions and find other community resources.
 - [Netzpolitischer Abend](https://www.youtube.com/@digitalegesellschaft/videos): series of talks by [Digitale Gesellschaft e.V](https://digitalegesellschaft.de/) hosted at [c-base](https://c-base.org/)
 - [Die Open Source Strategie des Bundesamtes für Strahlenschutz (BfS) bei der Entwicklung der Notfallschutzsysteme - ein Weg für Behörden zu mehr digitaler Souveränität und Nachhaltigkeit](https://pretalx.com/fossgis2022/talk/ZRTSMF/) (19') by Marco Lechner (BfS)
 
+## Resources on specific topics
+### UI/UX
+- [Design-System.SH](https://www.design-system.sh/): design system developed in Schleswig-Holstein, inspired by [GOV.UK Design System](https://design-system.service.gov.uk/)
+
+### Algorithm Transparency
+- [Konzeptpapier: Ein KI-Transparenzregister für die öffentliche Verwaltung](https://algorithmwatch.org/de/transparenzregister-oeffentliche-verwaltung-2023/) by [AlgorithmWatch](https://algorithmwatch.org/)
+- [Program flow charts for payroll tax deduction](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Lohnsteuer/Programmablaufplan/programmablaufplan.html) by [BMF](https://www.bundesfinanzministerium.de/): description of the algorithms used for tax calculation
+
 ### OZG Progress tracking
 - [OZG-Dashboard](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/ozg-dashboard/ozg-dashboard-node.html) by BMI
 - [OZG-Dashboard NRW](https://www.giscloud.nrw.de/ozg-dashboard.html) by MWIDE NRW
@@ -101,10 +109,8 @@ Places to ask questions and find other community resources.
 - [OZG-Dashboard](https://ozg.verdrusssache.de/) by Lilith Wittmann
 - [OZG-Informationsplattform](https://informationsplattform.ozg-umsetzung.de/)
 
-### Algorithm Transparency
-- [Program flow charts for payroll tax deduction](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Lohnsteuer/Programmablaufplan/programmablaufplan.html) by [BMF](https://www.bundesfinanzministerium.de/): description of the algorithms used for tax calculation
-
-### Technical Documentation
+## Technical Documentation
+- [Föderales Entwicklungsportal](https://docs.fitko.de/) by [IT-Planungsrat](https://www.it-planungsrat.de/) and [FITKO](https://www.fitko.de/)
 - [Standards und Schnittstellen](https://docs.fitko.de/standards-und-schnittstellen/): overview over standards and APIs created by the Portalverbund project
 - [Dokumentation der föderalen IT-Landschaft](https://www.fitko.de/foederale-koordination/gremienarbeit/foederales-it-architekturboard): documentation of it architecture with focus of OZG infrastructure by the federal IT architecture board of IT-Planungsrat
   - [archimate sources](https://git.fitko.de/foederale-it/it-landschaft)
@@ -113,10 +119,35 @@ Places to ask questions and find other community resources.
 - [FIM-Haus](https://fimportal.de/fim-haus) at FIM-Portal
 - [OZG in NRW - Dokumente](https://ozg.nrw/service/dokumente): Documentation and usage guides about federal IT-Infrastructure by MWIDE NRW
 
-### UI/UX
-- [Design-System.SH](https://www.design-system.sh/): design system developed in Schleswig-Holstein, inspired by [GOV.UK Design System](https://design-system.service.gov.uk/)
+## APIs
+- [bund.dev](https://bund.dev/): list of public administration APIs, documented by civic tech community
+  - [GitHub organization](https://github.com/bundesAPI)
+  - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
+- [Föderales Entwicklungsportal: APIs](https://docs.fitko.de/resources/?filter=type%3Aapi)
+- [Verwaltungssuchmaschine NRW](https://ozg.kdn.de/verwaltungssuchmaschine): search for ARS/AGS, LeiKa-Services and Responsibilities (Zuständigkeiten)
+  - [Serviceportal NRW](https://meineverwaltung.nrw/): frontend for end users
 
-### Code Repositories
+## Services
+- [OpenPGP Schlüsselbeglaubigung](https://pgp.governikus.de/pgp/): PGP key signing service based on identity card (*neuer Personalausweis*, nPA) verification
+- [Portalverbung Onlinegateway (PVOG)](https://servicesuche.bund.de/): search for public services and jurisdictions throughout all federal levels
+- [elektronischer Personalausweis (nPA / eID)](https://www.personalausweisportal.de/)
+  - [blog post by ijonberlin about FIDO support](https://www.ijon.me/2020/04/16/versteckte-funktion-der-eid-fido) for two-factor authentication (2FA)
+  - [WebAuthn-eID for Firefox extension](https://addons.mozilla.org/de/firefox/addon/webauthn-eid-for-firefox/)
+- [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
+- [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
+
+## Tooling for developers
+- [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
+- [publiccode.yml](https://yml.publiccode.tools/): metadata standard for repositories containing software developed or acquired by the Public Administration, aimed at making them easily discoverable and thus reusable by other entities
+  - [docs](https://yml.publiccode.tools/)
+  - [editor](https://publiccode-editor.developers.italia.it/)
+  - [GitHub](https://github.com/publiccodeyml/publiccode.yml)
+- [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
+- [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
+- [Din91379-csharp](https://github.com/flxbe/Din91379-csharp): A C# implementation of DIN 91379 (String.Latin)
+- [KoliBri](https://github.com/public-ui): an accessible component library by [ITZBund](https://www.itzbund.de).
+
+## Code Repositories
 - [code.europa.eu](https://code.europa.eu): GitLab instance for open source projects shared
 by the institutions of the European Union
   - [list of projects](https://code.europa.eu/explore)
@@ -128,33 +159,6 @@ by the institutions of the European Union
   - [list of projects](https://code.schleswig-holstein.de/explore)
 - [Stadt Treuchtlingen at Codeberg.org](https://codeberg.org/stadt_treuchtlingen)
 - [GitHub and Government](https://government.github.com/community/): list of (not only) German government organizations using GitHub
-
-### APIs
-- [bund.dev](https://bund.dev/): list of public administration APIs, documented by civic tech community
-  - [GitHub organization](https://github.com/bundesAPI)
-  - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
-- [Verwaltungssuchmaschine NRW](https://ozg.kdn.de/verwaltungssuchmaschine): search for ARS/AGS, LeiKa-Services and Responsibilities (Zuständigkeiten)
-  - [Serviceportal NRW](https://meineverwaltung.nrw/): frontend for end users
-
-### Services
-- [OpenPGP Schlüsselbeglaubigung](https://pgp.governikus.de/pgp/): PGP key signing service based on identity card (*neuer Personalausweis*, nPA) verification
-- [Portalverbung Onlinegateway (PVOG)](https://servicesuche.bund.de/): search for public services throughout all federal levels
-- [elektronischer Personalausweis (nPA / eID)](https://www.personalausweisportal.de/)
-  - [blog post by ijonberlin about FIDO support](https://www.ijon.me/2020/04/16/versteckte-funktion-der-eid-fido) for two-factor authentication (2FA)
-  - [WebAuthn-eID for Firefox extension](https://addons.mozilla.org/de/firefox/addon/webauthn-eid-for-firefox/)
-- [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
-- [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
-
-### Tooling for developers
-- [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
-- [publiccode.yml](https://yml.publiccode.tools/): metadata standard for repositories containing software developed or acquired by the Public Administration, aimed at making them easily discoverable and thus reusable by other entities
-  - [docs](https://yml.publiccode.tools/)
-  - [editor](https://publiccode-editor.developers.italia.it/)
-  - [GitHub](https://github.com/publiccodeyml/publiccode.yml)
-- [ozg](https://github.com/LilithWittmann/ozg): parsers/generators for the standards related to "Onlinezugangsgesetz", esp. FIM (xDatenfelder/XZuFi/XÖV)
-- [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
-- [Din91379-csharp](https://github.com/flxbe/Din91379-csharp): A C# implementation of DIN 91379 (String.Latin)
-- [KoliBri](https://github.com/public-ui): an accessible component library by [ITZBund](https://www.itzbund.de).
 
 ## Open Source (FOSS) projects
 - [Formularium](https://github.com/formularium/formularium): a privacy-first and user-friendly toolkit for municipalities to support them in making their public services available online
