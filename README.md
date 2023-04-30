@@ -7,7 +7,7 @@ A curated list of resources on e-government in Germany.
 ## Related awesome lists
 - [awesome-opendata-german](https://github.com/codeforosnabrueck/awesome-opendata-german): articles and other resources about Open Data (by [Code-for-Germany](https://codefor.de/))
   - [opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns): list of open data anti-patterns that should be avoided
-- [foss-verwaltung](https://codeberg.org/opengovtech/foss-verwaltung): ressources on reuse and of free and open source software by governments (german)
+- [foss-verwaltung](https://codeberg.org/opengovtech/foss-verwaltung): resources on how to reuse, create and publish free and open source software by governments
 - [awesome-behoerden-floss](https://github.com/okfde/awesome-behoerden-floss): F/LOSS software that is used in German government organizations (by [Open Knowledge Foundation Deutschland](https://okfn.de/))
 - [awesome-germany](https://github.com/bundestag/awesome-germany/): list about fiscal financed public projects and ones which are relevant for citizens
 - [awesome-deutschland](https://github.com/JonasGroeger/awesome-deutschland/): similar list but not restricted to government IT
