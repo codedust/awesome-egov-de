@@ -1,16 +1,17 @@
 # awesome-egov-de
 
-A curated list of resources on egovernment in Germany.
+A curated list of resources on e-government in Germany.
 
 > Pull requests and feedback via issues welcome! Get in touch via the [matrix](https://matrix.org/) chat at [#awesome-egov-de:tchncs.de](https://matrix.to/#/#awesome-egov-de:tchncs.de)
 
 ## Related awesome lists
 - [awesome-opendata-german](https://github.com/codeforosnabrueck/awesome-opendata-german): articles and other resources about Open Data (by [Code-for-Germany](https://codefor.de/))
   - [opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns): list of open data anti-patterns that should be avoided
-- [awesome-behoerden-floss](https://github.com/okfde/awesome-behoerden-floss): F/LOSS software that is used in German government organizations (by [Open Knowledge Foundation Deutschland](https://okfn.de/))
-- [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit): list of transit (public transport) APIs, apps, datasets, research, and software
-- [awesome-deutschland](https://github.com/JonasGroeger/awesome-deutschland/): similar list but not restricted to government IT
 - [foss-verwaltung](https://codeberg.org/opengovtech/foss-verwaltung): ressources on reuse and of free and open source software by governments (german)
+- [awesome-behoerden-floss](https://github.com/okfde/awesome-behoerden-floss): F/LOSS software that is used in German government organizations (by [Open Knowledge Foundation Deutschland](https://okfn.de/))
+- [awesome-germany](https://github.com/bundestag/awesome-germany/): list about fiscal financed public projects and ones which are relevant for citizens
+- [awesome-deutschland](https://github.com/JonasGroeger/awesome-deutschland/): similar list but not restricted to government IT
+- [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit): list of transit (public transport) APIs, apps, datasets, research, and software
 
 ## Community
 Places to ask questions and find other community resources.
