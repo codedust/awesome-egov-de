@@ -90,6 +90,10 @@ Places to ask questions and find other community resources.
   - [LdN301: „Keine weiteren Fragen“ – Digitalisierung der deutschen Verwaltung, Teil 1](https://lagedernation.org/podcast/ldn301-keine-weiteren-fragen-digitalisierung-der-deutschen-verwaltung-teil-1/)
   - [LdN302: Baustellen & Lösungen – Digitalisierung der deutschen Verwaltung, Teil 2](https://lagedernation.org/podcast/ldn302-baustellen-loesungen-digitalisierung-der-deutschen-verwaltung-teil-2/)
 
+### Videos
+- [Netzpolitischer Abend](https://www.youtube.com/@digitalegesellschaft/videos): series of talks by [Digitale Gesellschaft e.V](https://digitalegesellschaft.de/) hosted at [c-base](https://c-base.org/)
+- [Die Open Source Strategie des Bundesamtes für Strahlenschutz (BfS) bei der Entwicklung der Notfallschutzsysteme - ein Weg für Behörden zu mehr digitaler Souveränität und Nachhaltigkeit](https://pretalx.com/fossgis2022/talk/ZRTSMF/) (19') by Marco Lechner (BfS)
+
 ### OZG Progress tracking
 - [OZG-Dashboard](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/umsetzung/ozg-dashboard/ozg-dashboard-node.html) by BMI
 - [OZG-Dashboard NRW](https://www.giscloud.nrw.de/ozg-dashboard.html) by MWIDE NRW
