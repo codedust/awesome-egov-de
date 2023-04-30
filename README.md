@@ -97,6 +97,9 @@ Places to ask questions and find other community resources.
 - [OZG-Dashboard](https://ozg.verdrusssache.de/) by Lilith Wittmann
 - [OZG-Informationsplattform](https://informationsplattform.ozg-umsetzung.de/)
 
+### Algorithm Transparency
+- [Program flow charts for payroll tax deduction](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Lohnsteuer/Programmablaufplan/programmablaufplan.html) by [BMF](https://www.bundesfinanzministerium.de/): description of the algorithms used for tax calculation
+
 ### Technical Documentation
 - [Standards und Schnittstellen](https://docs.fitko.de/standards-und-schnittstellen/): overview over standards and APIs created by the Portalverbund project
 - [Dokumentation der föderalen IT-Landschaft](https://www.fitko.de/foederale-koordination/gremienarbeit/foederales-it-architekturboard): documentation of it architecture with focus of OZG infrastructure by the federal IT architecture board of IT-Planungsrat
