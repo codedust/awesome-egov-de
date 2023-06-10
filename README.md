@@ -110,7 +110,7 @@ Places to ask questions and find other community resources.
 - [OZG-Informationsplattform](https://informationsplattform.ozg-umsetzung.de/)
 
 ## Technical Documentation
-- [Föderales Entwicklungsportal](https://docs.fitko.de/) by [IT-Planungsrat](https://www.it-planungsrat.de/) and [FITKO](https://www.fitko.de/)
+- [Föderales Entwicklungsportal (docs.fitko.de)](https://docs.fitko.de/) by [IT-Planungsrat](https://www.it-planungsrat.de/) and [FITKO](https://www.fitko.de/)
 - [Standards und Schnittstellen](https://docs.fitko.de/standards-und-schnittstellen/): overview over standards and APIs created by the Portalverbund project
 - [Dokumentation der föderalen IT-Landschaft](https://www.fitko.de/foederale-koordination/gremienarbeit/foederales-it-architekturboard): documentation of it architecture with focus of OZG infrastructure by the federal IT architecture board of IT-Planungsrat
   - [archimate sources](https://git.fitko.de/foederale-it/it-landschaft)
