@@ -43,6 +43,9 @@ Places to ask questions and find other community resources.
 - [EU Working Group "APIs for Innovative Public Services (API4IPS)"](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=254313406)
   - [REST best practices](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=335282435) by that working group
 
+## Veranstaltungen
+Torsten Frenzel vom eGovernment-Podcast pflegt einen [Kalender mit eGovernment-bezogenen Events](https://egovernment-podcast.com/events/).
+
 ## Learning Resources
 ### Policies
 - [Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen (Onlinezugangsgesetz)](https://www.gesetze-im-internet.de/ozg/)
