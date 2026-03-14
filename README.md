@@ -170,3 +170,4 @@ by the institutions of the European Union
 - [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
 - [AusweisApp2](https://www.ausweisapp.bund.de/ausweisapp2/): app for the german identity card (*neuer Personalausweis*, nPA)
   - [GitHub](https://github.com/Governikus/AusweisApp2)
+- [City Monitor](https://citymonitor.app): real-time dashboard for cities aggregating 20+ public data sources. ([GitHub](https://github.com/OdinMB/city-monitor))
