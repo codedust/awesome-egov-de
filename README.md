@@ -127,6 +127,7 @@ Torsten Frenzel vom eGovernment-Podcast pflegt einen [Kalender mit eGovernment-b
   - [GitHub organization](https://github.com/bundesAPI)
   - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
 - [Föderales Entwicklungsportal: APIs](https://docs.fitko.de/resources/?filter=type%3Aapi)
+- [InfraNode](https://infranode.dev): Vereinheitlichte REST-API für Infrastrukturdaten deutscher Städte (Wetter, Luftqualität, Pegel, Ladesäulen, ÖPNV-Echtzeit) aus 35+ amtlichen Quellen, ohne API-Key nutzbar
 - [Verwaltungssuchmaschine NRW](https://ozg.kdn.de/verwaltungssuchmaschine): search for ARS/AGS, LeiKa-Services and Responsibilities (Zuständigkeiten)
   - [Serviceportal NRW](https://meineverwaltung.nrw/): frontend for end users
 
