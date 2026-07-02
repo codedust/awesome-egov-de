@@ -123,6 +123,7 @@ Torsten Frenzel vom eGovernment-Podcast pflegt einen [Kalender mit eGovernment-b
 - [OZG in NRW - Dokumente](https://ozg.nrw/service/dokumente): Documentation and usage guides about federal IT-Infrastructure by MWIDE NRW
 
 ## APIs
+- [InfraNode](https://infranode.dev): keyless open REST API and MCP server for German city open data (84 cities, 60+ data types: air quality, weather, public transit realtime, parking, water levels, solar and more), aggregated from official open-data sources with per-response license and attribution
 - [bund.dev](https://bund.dev/): list of public administration APIs, documented by civic tech community
   - [GitHub organization](https://github.com/bundesAPI)
   - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
@@ -165,6 +166,7 @@ by the institutions of the European Union
 - [GitHub and Government](https://government.github.com/community/): list of (not only) German government organizations using GitHub
 
 ## Open Source (FOSS) projects
+- [InfraNode](https://github.com/street1983nk/infranode): open-source (Apache-2.0) data infrastructure that normalizes German public-infrastructure open data behind one keyless REST API and MCP server
 - [Formularium](https://github.com/formularium/formularium): a privacy-first and user-friendly toolkit for municipalities to support them in making their public services available online
 - [IRIS connect](https://www.iris-connect.de/): open api for health offices with focus on contract tracing
 - [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
