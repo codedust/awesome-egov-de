@@ -123,11 +123,11 @@ Torsten Frenzel vom eGovernment-Podcast pflegt einen [Kalender mit eGovernment-b
 - [OZG in NRW - Dokumente](https://ozg.nrw/service/dokumente): Documentation and usage guides about federal IT-Infrastructure by MWIDE NRW
 
 ## APIs
-- [InfraNode](https://infranode.dev): keyless open REST API and MCP server for German city open data (84 cities, 60+ data types: air quality, weather, public transit realtime, parking, water levels, solar and more), aggregated from official open-data sources with per-response license and attribution
 - [bund.dev](https://bund.dev/): list of public administration APIs, documented by civic tech community
   - [GitHub organization](https://github.com/bundesAPI)
   - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
 - [Föderales Entwicklungsportal: APIs](https://docs.fitko.de/resources/?filter=type%3Aapi)
+- [InfraNode](https://infranode.dev): keyless open REST API and MCP server for German city open data (84 cities, 60+ data types: air quality, weather, public transit realtime, parking, water levels, solar and more), aggregated from official open-data sources with per-response license and attribution
 - [Verwaltungssuchmaschine NRW](https://ozg.kdn.de/verwaltungssuchmaschine): search for ARS/AGS, LeiKa-Services and Responsibilities (Zuständigkeiten)
   - [Serviceportal NRW](https://meineverwaltung.nrw/): frontend for end users
 
