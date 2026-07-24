@@ -170,3 +170,7 @@ by the institutions of the European Union
 - [Bayerische Ehrenamtskarte](https://github.com/digitalfabrik/ehrenamtskarte): Fully open-source solution for entitlement cards
 - [AusweisApp2](https://www.ausweisapp.bund.de/ausweisapp2/): app for the german identity card (*neuer Personalausweis*, nPA)
   - [GitHub](https://github.com/Governikus/AusweisApp2)
+
+## E-Rechnung
+
+- [eRechnungGuide.de](https://erechnung-guide.de) - Ratgeber, kostenloser XRechnung-Generator und Validator zur deutschen E-Rechnungspflicht (EN 16931 / XRechnung / ZUGFeRD).
