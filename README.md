@@ -102,6 +102,7 @@ Torsten Frenzel vom eGovernment-Podcast pflegt einen [Kalender mit eGovernment-b
 - [Design-System.SH](https://www.design-system.sh/): design system developed in Schleswig-Holstein, inspired by [GOV.UK Design System](https://design-system.service.gov.uk/)
 
 ### Algorithm Transparency
+- [KI-Verwaltungsradar](https://i6eal.de/tools/ki-verwaltungsradar/): durchsuchbare, laufend aktualisierte Übersicht der im MaKI-Register veröffentlichten KI-Systeme aus Bund, Ländern und Kommunen – mit Einsatzstatus, Risikoeinordnung und Statusverlauf
 - [Konzeptpapier: Ein KI-Transparenzregister für die öffentliche Verwaltung](https://algorithmwatch.org/de/transparenzregister-oeffentliche-verwaltung-2023/) by [AlgorithmWatch](https://algorithmwatch.org/)
 - [Program flow charts for payroll tax deduction](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Lohnsteuer/Programmablaufplan/programmablaufplan.html) by [BMF](https://www.bundesfinanzministerium.de/): description of the algorithms used for tax calculation
 
@@ -163,6 +164,7 @@ by the institutions of the European Union
   - [list of projects](https://code.schleswig-holstein.de/explore)
 - [Stadt Treuchtlingen at Codeberg.org](https://codeberg.org/stadt_treuchtlingen)
 - [GitHub and Government](https://government.github.com/community/): list of (not only) German government organizations using GitHub
+- [KI-Code-Radar](https://i6eal.de/tools/ki-code-radar/): Auswertung, welche öffentlichen Verwaltungs-Repositories auf openCoDE KI-Technologien einsetzen (Evidenz aus Manifesten, laufend aktualisiert)
 
 ## Open Source (FOSS) projects
 - [Formularium](https://github.com/formularium/formularium): a privacy-first and user-friendly toolkit for municipalities to support them in making their public services available online
