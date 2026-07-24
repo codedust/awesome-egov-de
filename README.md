@@ -155,7 +155,7 @@ Torsten Frenzel vom eGovernment-Podcast pflegt einen [Kalender mit eGovernment-b
 - [code.europa.eu](https://code.europa.eu): GitLab instance for open source projects shared
 by the institutions of the European Union
   - [list of projects](https://code.europa.eu/explore)
-- [OpenCoDE](https://opencode.de): GitLab instance for German government institutions by BMI, NRW and BW
+- [openCode](https://opencode.de): GitLab instance for German government institutions by BMI, NRW and BW
   - [list of projects](https://gitlab.opencode.de/explore/groups)
 - [git.fitko.de](https://git.fitko.de/fit-connect): GitLab instance by Föderale IT-Koorperation (FITKO)
   - [group "FIT-Connect"](https://git.fitko.de/fit-connect)
