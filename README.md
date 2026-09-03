@@ -138,6 +138,7 @@ Torsten Frenzel vom eGovernment-Podcast pflegt einen [Kalender mit eGovernment-b
   - [WebAuthn-eID for Firefox extension](https://addons.mozilla.org/de/firefox/addon/webauthn-eid-for-firefox/)
 - [leika-tool](https://github.com/codedust/leika-tool): simple tool to explore the [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa)
 - [ars-tool](https://github.com/codedust/ars-tool): simple tool to explore German community identification numbers (Amtliche Regionalschlüssel, ARS)
+- [Sperrmüll Bonn/Münster](https://j4zz.eu/sperrmuell/): interactive open-data map of bulky-waste ("Sperrmüll") collection dates for Bonn, plus a street-lookup tool for Münster ([sperrmuell-muenster](https://j4zz.eu/sperrmuell-muenster/)), built from each city's official open collection-calendar data (bonnorange CC BY 4.0; Stadt Münster dl-de/by-2-0) and OpenStreetMap geometry (ODbL) for Bonn
 
 ## Tooling for developers
 - [Italian Open API Validation Checker](https://github.com/teamdigitale/api-oas-checker-action) by Team Digitale, [used by FITKO](https://git.fitko.de/fit-connect/api/-/blob/main/.spectral.yml)
