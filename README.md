@@ -174,3 +174,4 @@ by the institutions of the European Union
 ## E-Rechnung
 
 - [eRechnungGuide.de](https://erechnung-guide.de) - Ratgeber, kostenloser XRechnung-Generator und Validator zur deutschen E-Rechnungspflicht (EN 16931 / XRechnung / ZUGFeRD).
+- [invowerk](https://invowerk.dev) - E-Rechnungen (ZUGFeRD, XRechnung) prüfen: PDF oder XML hochladen und sehen, ob die Rechnung die Prüfregeln erfüllt und was zu tun ist. Kostenlos, ohne Anmeldung; auch als API und MCP-Server.
