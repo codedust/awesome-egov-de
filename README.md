@@ -174,3 +174,4 @@ by the institutions of the European Union
 ## E-Rechnung
 
 - [eRechnungGuide.de](https://erechnung-guide.de) - Ratgeber, kostenloser XRechnung-Generator und Validator zur deutschen E-Rechnungspflicht (EN 16931 / XRechnung / ZUGFeRD).
+- [InvoiceVerify XRechnung prüfen](https://peppol-invoice-compass.lovable.app/de/xrechnung-pruefen) - Kostenlose XRechnung-Prüfung im Browser ohne Anmeldung (UBL und CII, BR-DE-Regeln, Leitweg-ID-Prüfziffer, ZUGFeRD-PDFs), mit Lösungshinweis je Fehler; die Rechnung wird nicht hochgeladen. Dazu ein [XRechnung-Viewer](https://peppol-invoice-compass.lovable.app/de/xrechnung-viewer).
