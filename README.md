@@ -174,3 +174,4 @@ by the institutions of the European Union
 ## E-Rechnung
 
 - [eRechnungGuide.de](https://erechnung-guide.de) - Ratgeber, kostenloser XRechnung-Generator und Validator zur deutschen E-Rechnungspflicht (EN 16931 / XRechnung / ZUGFeRD).
+- [Docfaro XRechnung-Viewer](https://docfaro.com/de/xrechnung-viewer/) - XRechnung (UBL oder CII) und ZUGFeRD kostenlos im Browser öffnen, prüfen und als PDF speichern; die Datei wird nicht hochgeladen.
