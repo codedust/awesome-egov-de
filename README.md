@@ -127,6 +127,7 @@ Torsten Frenzel vom eGovernment-Podcast pflegt einen [Kalender mit eGovernment-b
   - [GitHub organization](https://github.com/bundesAPI)
   - [list of APIs as JSON](https://github.com/bundesAPI/apis/blob/main/index.json)
 - [Föderales Entwicklungsportal: APIs](https://docs.fitko.de/resources/?filter=type%3Aapi)
+- [Vergabeweiser](https://vergabeweiser.de/api): public tenders and contract awards in Germany from open procurement data (Bekanntmachungsservice CC0, TED), REST API with OpenAPI spec and a read-only MCP server, no key needed
 - [Verwaltungssuchmaschine NRW](https://ozg.kdn.de/verwaltungssuchmaschine): search for ARS/AGS, LeiKa-Services and Responsibilities (Zuständigkeiten)
   - [Serviceportal NRW](https://meineverwaltung.nrw/): frontend for end users
 
